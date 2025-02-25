@@ -16,6 +16,12 @@
 
 }
 
+h2{
+    color: var(--text-white);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 2em;
+}
+
 a, abbr{
 	text-decoration: none;
   }
@@ -23,6 +29,10 @@ a, abbr{
 body{
     background-color: var(--background-black);
     
+}
+
+section{
+    margin: 4em;
 }
 
 /**Header**/
